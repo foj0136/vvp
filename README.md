@@ -1,4 +1,4 @@
-# Toto je repozitář obsahující materiály k předmětu "Vědecké výpočty v Pythonu"
+# Toto je repozitář obsahující moje domácí úkoly k předmětu "Vědecké výpočty v Pythonu"
 
 Harmonogram, důležíté informace a deadliny naleznete na [LMS](https://lms.vsb.cz).
 
